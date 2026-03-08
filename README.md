@@ -1,7 +1,3 @@
-Below is a **more polished, hackathon-ready README.md** with diagrams, demo sections, and a clear pitch. You can **copy-paste this directly** into your repository’s `README.md`.
-
----
-
 # TrustVault
 
 TrustVault is a decentralized content ownership platform that allows users to upload files, store them permanently on IPFS using Pinata, and generate verifiable proof of ownership recorded on the Sui blockchain.
@@ -403,13 +399,6 @@ Planned upgrades include:
 * decentralized identity integration
 * licensing and ownership transfer
 
----
-
-# License
-
-MIT License
-
----
 
 # Acknowledgments
 
@@ -420,7 +409,3 @@ Built using:
 * IPFS
 * FastAPI
 * Next.js
-
----
-
-If you want, I can also give you a **very short 5-line project description for your GitHub repo header and hackathon submission page**, which helps judges immediately understand your project.
