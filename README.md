@@ -6,26 +6,6 @@ Every file produces a unique CID (Content Identifier). This CID, along with file
 
 ---
 
-# Project Demo
-
-Example verification page:
-
-```
-http://localhost:3000/verify/<CID>
-```
-
-Verification page shows:
-
-* File CID
-* Owner wallet
-* File hash
-* Upload timestamp
-* IPFS storage link
-* Blockchain transaction (if registered)
-* File preview (image or PDF)
-
----
-
 # Why TrustVault?
 
 In today’s digital world, creators struggle to prove ownership of their work. TrustVault solves this problem by combining:
@@ -231,7 +211,7 @@ trustvault
 ## Clone Repository
 
 ```
-git clone https://github.com/yourusername/trustvault.git
+git clone https://github.com/KOTHAPALLIRAJASEKHARREDDY/trustvault.git
 cd trustvault
 ```
 
